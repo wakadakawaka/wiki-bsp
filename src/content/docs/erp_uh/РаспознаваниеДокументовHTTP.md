@@ -1,5 +1,6 @@
 ---
 title: Распознавание документов HTTP
+slug: erp_uh/raspoznavanie-dokumentov-http
 ---
 
 

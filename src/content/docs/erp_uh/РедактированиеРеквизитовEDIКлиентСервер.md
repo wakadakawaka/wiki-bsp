@@ -1,5 +1,6 @@
 ---
 title: Редактирование реквизитов EDI клиент сервер
+slug: erp_uh/redaktirovanie-rekvizitov-edi-klient-server
 ---
 
 

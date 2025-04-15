@@ -1,5 +1,6 @@
 ---
 title: Текущие дела EDI
+slug: erp_uh/tekuschie-dela-edi
 ---
 
 

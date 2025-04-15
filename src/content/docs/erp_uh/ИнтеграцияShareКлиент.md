@@ -1,5 +1,6 @@
 ---
 title: Интеграция SHARE клиент
+slug: erp_uh/integratsiya-share-klient
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Общего назначения microsoft excel клиент сервер УХ
+slug: erp_uh/obschego-naznacheniya-microsoft-excel-klient-server-uh
 ---
 
 

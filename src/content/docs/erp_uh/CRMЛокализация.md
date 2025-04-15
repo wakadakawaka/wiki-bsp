@@ -1,5 +1,6 @@
 ---
 title: Crm локализация
+slug: erp_uh/crm-lokalizatsiya
 ---
 
 

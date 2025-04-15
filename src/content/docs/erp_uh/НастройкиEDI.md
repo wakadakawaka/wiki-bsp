@@ -1,5 +1,6 @@
 ---
 title: Настройки EDI
+slug: erp_uh/nastroyki-edi
 ---
 
 

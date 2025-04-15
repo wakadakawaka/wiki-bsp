@@ -1,5 +1,6 @@
 ---
 title: Преобразование данных EDI служебный повт исп
+slug: erp_uh/preobrazovanie-dannyh-edi-sluzhebnyy-povt-isp
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Подключаемое оборудование OFFLINE вызов сервера локализация
+slug: erp_uh/podklyuchaemoe-oborudovanie-offline-vyzov-servera-lokalizatsiya
 ---
 
 

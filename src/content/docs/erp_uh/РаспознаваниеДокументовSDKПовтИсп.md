@@ -1,5 +1,6 @@
 ---
 title: Распознавание документов SDK повт исп
+slug: erp_uh/raspoznavanie-dokumentov-sdk-povt-isp
 ---
 
 

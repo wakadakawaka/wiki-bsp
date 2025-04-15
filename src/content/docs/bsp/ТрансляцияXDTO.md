@@ -1,5 +1,6 @@
 ---
 title: Трансляция XDTO
+slug: bsp/translyatsiya-xdto
 ---
 
 

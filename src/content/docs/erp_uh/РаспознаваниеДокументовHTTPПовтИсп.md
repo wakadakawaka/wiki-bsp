@@ -1,5 +1,6 @@
 ---
 title: Распознавание документов HTTP повт исп
+slug: erp_uh/raspoznavanie-dokumentov-http-povt-isp
 ---
 
 

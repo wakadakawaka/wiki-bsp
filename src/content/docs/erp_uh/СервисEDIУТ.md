@@ -1,5 +1,6 @@
 ---
 title: Сервис EDI УТ
+slug: erp_uh/servis-edi-ut
 ---
 
 

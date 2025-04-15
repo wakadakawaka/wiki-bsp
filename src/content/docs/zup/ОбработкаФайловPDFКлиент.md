@@ -1,5 +1,6 @@
 ---
 title: Обработка файлов PDF клиент
+slug: zup/obrabotka-faylov-pdf-klient
 ---
 
 

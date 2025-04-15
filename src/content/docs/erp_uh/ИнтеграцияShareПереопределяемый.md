@@ -1,5 +1,6 @@
 ---
 title: Интеграция SHARE переопределяемый
+slug: erp_uh/integratsiya-share-pereopredelyaemyy
 ---
 
 

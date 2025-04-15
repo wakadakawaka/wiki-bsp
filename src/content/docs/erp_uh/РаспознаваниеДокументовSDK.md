@@ -1,5 +1,6 @@
 ---
 title: Распознавание документов SDK
+slug: erp_uh/raspoznavanie-dokumentov-sdk
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Работа с данными EDI служебный
+slug: erp_uh/rabota-s-dannymi-edi-sluzhebnyy
 ---
 
 

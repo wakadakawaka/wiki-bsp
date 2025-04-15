@@ -1,5 +1,6 @@
 ---
 title: Переводы СБП (c2b) переопределяемый
+slug: erp_uh/perevody-sbp-(c2b)-pereopredelyaemyy
 ---
 
 

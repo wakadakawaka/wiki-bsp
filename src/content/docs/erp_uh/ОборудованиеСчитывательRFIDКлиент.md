@@ -1,5 +1,6 @@
 ---
 title: Оборудование считыватель RFID клиент
+slug: erp_uh/oborudovanie-schityvatel-rfid-klient
 ---
 
 

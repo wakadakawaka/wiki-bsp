@@ -1,5 +1,6 @@
 ---
 title: Работа с версиями интеграция EDI клиент
+slug: erp_uh/rabota-s-versiyami-integratsiya-edi-klient
 ---
 
 

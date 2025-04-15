@@ -1,5 +1,6 @@
 ---
 title: Интеграция SHARE вызов сервера
+slug: erp_uh/integratsiya-share-vyzov-servera
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Отправка sm s
+slug: bsp/otpravka-sm-s
 ---
 
 

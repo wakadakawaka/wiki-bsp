@@ -1,5 +1,6 @@
 ---
 title: Работа с XML ЕГАИС
+slug: erp_uh/rabota-s-xml-egais
 ---
 
 

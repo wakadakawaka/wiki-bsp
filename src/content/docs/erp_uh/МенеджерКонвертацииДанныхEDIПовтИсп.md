@@ -1,5 +1,6 @@
 ---
 title: Менеджер конвертации данных EDI повт исп
+slug: erp_uh/menedzher-konvertatsii-dannyh-edi-povt-isp
 ---
 
 

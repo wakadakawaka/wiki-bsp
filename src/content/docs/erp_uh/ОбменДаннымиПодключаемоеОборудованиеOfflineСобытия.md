@@ -1,5 +1,6 @@
 ---
 title: Обмен данными подключаемое оборудование OFFLINE события
+slug: erp_uh/obmen-dannymi-podklyuchaemoe-oborudovanie-offline-sobytiya
 ---
 
 

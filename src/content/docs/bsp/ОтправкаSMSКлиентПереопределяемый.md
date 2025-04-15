@@ -1,5 +1,6 @@
 ---
 title: Отправка sms клиент переопределяемый
+slug: bsp/otpravka-sms-klient-pereopredelyaemyy
 ---
 
 

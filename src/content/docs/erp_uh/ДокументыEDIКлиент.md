@@ -1,5 +1,6 @@
 ---
 title: Документы EDI клиент
+slug: erp_uh/dokumenty-edi-klient
 ---
 
 

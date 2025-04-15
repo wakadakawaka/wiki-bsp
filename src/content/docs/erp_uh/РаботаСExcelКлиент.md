@@ -1,5 +1,6 @@
 ---
 title: Работа с excel клиент
+slug: erp_uh/rabota-s-excel-klient
 ---
 
 

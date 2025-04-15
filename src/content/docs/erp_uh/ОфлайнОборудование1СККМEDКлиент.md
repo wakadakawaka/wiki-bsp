@@ -1,5 +1,6 @@
 ---
 title: Офлайн оборудование1 сккмed клиент
+slug: erp_uh/oflayn-oborudovanie1-skkmed-klient
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Текущие дела EDI интеграция клиент
+slug: erp_uh/tekuschie-dela-edi-integratsiya-klient
 ---
 
 

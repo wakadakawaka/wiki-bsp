@@ -1,5 +1,6 @@
 ---
 title: Интеграция SHARE
+slug: erp_uh/integratsiya-share
 ---
 
 
