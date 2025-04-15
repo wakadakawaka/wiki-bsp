@@ -1,5 +1,5 @@
 ---
-title: Интеграция share
+title: Интеграция SHARE
 ---
 
 
