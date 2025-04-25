@@ -1,6 +1,6 @@
 ---
 title: Офлайн оборудование1 сккмed вызов сервера
-slug: erp_uh/oflayn-oborudovanie1-skkmed-vyzov-servera
+slug: erp-uh/офлайн-оборудование1-сккмed-вызов-сервера
 ---
 
 

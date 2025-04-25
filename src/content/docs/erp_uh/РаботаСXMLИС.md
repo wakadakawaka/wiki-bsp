@@ -1,6 +1,6 @@
 ---
 title: Работа с XML ИС
-slug: erp_uh/rabota-s-xml-is
+slug: erp-uh/работа-с-xml-ис
 ---
 
 

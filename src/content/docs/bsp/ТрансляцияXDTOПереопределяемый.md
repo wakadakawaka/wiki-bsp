@@ -1,6 +1,6 @@
 ---
 title: Трансляция XDTO переопределяемый
-slug: bsp/translyatsiya-xdto-pereopredelyaemyy
+slug: bsp/трансляция-xdto-переопределяемый
 ---
 
 

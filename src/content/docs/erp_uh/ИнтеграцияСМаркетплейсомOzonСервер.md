@@ -1,6 +1,6 @@
 ---
 title: Интеграция с маркетплейсом ozon сервер
-slug: erp_uh/integratsiya-s-marketpleysom-ozon-server
+slug: erp-uh/интеграция-с-маркетплейсом-ozon-сервер
 ---
 
 

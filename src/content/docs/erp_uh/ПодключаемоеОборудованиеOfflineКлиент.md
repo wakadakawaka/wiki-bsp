@@ -1,6 +1,6 @@
 ---
 title: Подключаемое оборудование OFFLINE клиент
-slug: erp_uh/podklyuchaemoe-oborudovanie-offline-klient
+slug: erp-uh/подключаемое-оборудование-offline-клиент
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Интеграция SHARE клиент переопределяемый
-slug: erp_uh/integratsiya-share-klient-pereopredelyaemyy
+slug: erp-uh/интеграция-share-клиент-переопределяемый
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Работа с лентой событий EDI клиент
-slug: erp_uh/rabota-s-lentoy-sobytiy-edi-klient
+slug: erp-uh/работа-с-лентой-событий-edi-клиент
 ---
 
 

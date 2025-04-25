@@ -1,6 +1,6 @@
 ---
 title: Работа с excel вызов сервера
-slug: erp_uh/rabota-s-excel-vyzov-servera
+slug: erp-uh/работа-с-excel-вызов-сервера
 ---
 
 

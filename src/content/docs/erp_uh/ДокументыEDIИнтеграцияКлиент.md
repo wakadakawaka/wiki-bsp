@@ -1,6 +1,6 @@
 ---
 title: Документы EDI интеграция клиент
-slug: erp_uh/dokumenty-edi-integratsiya-klient
+slug: erp-uh/документы-edi-интеграция-клиент
 ---
 
 

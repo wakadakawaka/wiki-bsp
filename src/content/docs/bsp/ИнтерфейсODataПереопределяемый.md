@@ -1,6 +1,6 @@
 ---
 title: Интерфейс OData переопределяемый
-slug: bsp/interfeys-odata-pereopredelyaemyy
+slug: bsp/интерфейс-odata-переопределяемый
 ---
 
 

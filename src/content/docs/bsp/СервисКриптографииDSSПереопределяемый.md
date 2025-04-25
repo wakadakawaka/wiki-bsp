@@ -1,6 +1,6 @@
 ---
 title: Сервис криптографии dss переопределяемый
-slug: bsp/servis-kriptografii-dss-pereopredelyaemyy
+slug: bsp/сервис-криптографии-dss-переопределяемый
 ---
 
 

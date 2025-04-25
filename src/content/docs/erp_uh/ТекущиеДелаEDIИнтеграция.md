@@ -1,6 +1,6 @@
 ---
 title: Текущие дела EDI интеграция
-slug: erp_uh/tekuschie-dela-edi-integratsiya
+slug: erp-uh/текущие-дела-edi-интеграция
 ---
 
 

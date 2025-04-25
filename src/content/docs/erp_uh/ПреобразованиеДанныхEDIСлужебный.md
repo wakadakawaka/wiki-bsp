@@ -1,6 +1,6 @@
 ---
 title: Преобразование данных EDI служебный
-slug: erp_uh/preobrazovanie-dannyh-edi-sluzhebnyy
+slug: erp-uh/преобразование-данных-edi-служебный
 ---
 
 

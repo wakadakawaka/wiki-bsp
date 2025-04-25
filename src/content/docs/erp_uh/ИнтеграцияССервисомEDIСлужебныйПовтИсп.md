@@ -1,6 +1,6 @@
 ---
 title: Интеграция с сервисом EDI служебный повт исп
-slug: erp_uh/integratsiya-s-servisom-edi-sluzhebnyy-povt-isp
+slug: erp-uh/интеграция-с-сервисом-edi-служебный-повт-исп
 ---
 
 

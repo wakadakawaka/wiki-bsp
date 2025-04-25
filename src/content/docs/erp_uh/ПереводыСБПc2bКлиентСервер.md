@@ -1,6 +1,6 @@
 ---
 title: Переводы СБП (c2b) клиент сервер
-slug: erp_uh/perevody-sbp-(c2b)-klient-server
+slug: erp-uh/переводы-сбп-c2b-клиент-сервер
 ---
 
 

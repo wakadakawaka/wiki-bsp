@@ -1,6 +1,6 @@
 ---
 title: Сверка взаиморасчетов СБП (c2b) переопределяемый
-slug: erp_uh/sverka-vzaimoraschetov-sbp-(c2b)-pereopredelyaemyy
+slug: erp-uh/сверка-взаиморасчетов-сбп-c2b-переопределяемый
 ---
 
 

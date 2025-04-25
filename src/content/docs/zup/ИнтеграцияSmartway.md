@@ -1,6 +1,6 @@
 ---
 title: Интеграция smartway
-slug: zup/integratsiya-smartway
+slug: zup/интеграция-smartway
 ---
 
 

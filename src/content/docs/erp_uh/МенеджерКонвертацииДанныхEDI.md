@@ -1,6 +1,6 @@
 ---
 title: Менеджер конвертации данных EDI
-slug: erp_uh/menedzher-konvertatsii-dannyh-edi
+slug: erp-uh/менеджер-конвертации-данных-edi
 ---
 
 

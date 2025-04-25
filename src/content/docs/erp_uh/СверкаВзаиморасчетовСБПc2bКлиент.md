@@ -1,6 +1,6 @@
 ---
 title: Сверка взаиморасчетов СБП (c2b) клиент
-slug: erp_uh/sverka-vzaimoraschetov-sbp-(c2b)-klient
+slug: erp-uh/сверка-взаиморасчетов-сбп-c2b-клиент
 ---
 
 

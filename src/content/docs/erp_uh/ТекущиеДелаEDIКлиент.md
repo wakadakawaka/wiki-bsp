@@ -1,6 +1,6 @@
 ---
 title: Текущие дела EDI клиент
-slug: erp_uh/tekuschie-dela-edi-klient
+slug: erp-uh/текущие-дела-edi-клиент
 ---
 
 

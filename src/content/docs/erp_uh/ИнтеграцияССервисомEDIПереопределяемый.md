@@ -1,6 +1,6 @@
 ---
 title: Интеграция с сервисом EDI переопределяемый
-slug: erp_uh/integratsiya-s-servisom-edi-pereopredelyaemyy
+slug: erp-uh/интеграция-с-сервисом-edi-переопределяемый
 ---
 
 

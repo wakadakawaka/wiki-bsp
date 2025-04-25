@@ -1,6 +1,6 @@
 ---
 title: Обработка файлов microsoft excel вызов сервера УХ
-slug: erp_uh/obrabotka-faylov-microsoft-excel-vyzov-servera-uh
+slug: erp-uh/обработка-файлов-microsoft-excel-вызов-сервера-ух
 ---
 
 

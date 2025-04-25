@@ -1,6 +1,6 @@
 ---
 title: Работа с excel
-slug: erp_uh/rabota-s-excel
+slug: erp-uh/работа-с-excel
 ---
 
 

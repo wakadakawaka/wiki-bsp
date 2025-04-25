@@ -1,6 +1,6 @@
 ---
 title: Интеграция с сервисом EDI служебный
-slug: erp_uh/integratsiya-s-servisom-edi-sluzhebnyy
+slug: erp-uh/интеграция-с-сервисом-edi-служебный
 ---
 
 

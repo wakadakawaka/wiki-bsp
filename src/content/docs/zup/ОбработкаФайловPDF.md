@@ -1,6 +1,6 @@
 ---
 title: Обработка файлов PDF
-slug: zup/obrabotka-faylov-pdf
+slug: zup/обработка-файлов-pdf
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Рабочее место работника склада XDTO
-slug: erp_uh/rabochee-mesto-rabotnika-sklada-xdto
+slug: erp-uh/рабочее-место-работника-склада-xdto
 ---
 
 

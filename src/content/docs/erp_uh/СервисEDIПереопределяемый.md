@@ -1,6 +1,6 @@
 ---
 title: Сервис EDI переопределяемый
-slug: erp_uh/servis-edi-pereopredelyaemyy
+slug: erp-uh/сервис-edi-переопределяемый
 ---
 
 

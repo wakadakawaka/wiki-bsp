@@ -1,6 +1,6 @@
 ---
 title: Обмен данными XDTO сервер
-slug: bsp/obmen-dannymi-xdto-server
+slug: bsp/обмен-данными-xdto-сервер
 ---
 
 

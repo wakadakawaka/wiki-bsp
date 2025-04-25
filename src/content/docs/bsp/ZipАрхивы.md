@@ -1,6 +1,6 @@
 ---
 title: Zip архивы
-slug: bsp/zip-arhivy
+slug: bsp/zip-архивы
 ---
 
 

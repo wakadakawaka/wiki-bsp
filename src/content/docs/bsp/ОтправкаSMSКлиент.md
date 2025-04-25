@@ -1,6 +1,6 @@
 ---
 title: Отправка sms клиент
-slug: bsp/otpravka-sms-klient
+slug: bsp/отправка-sms-клиент
 ---
 
 

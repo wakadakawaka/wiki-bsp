@@ -1,6 +1,6 @@
 ---
 title: Подключаемое оборудование OFFLINE вызов сервера
-slug: erp_uh/podklyuchaemoe-oborudovanie-offline-vyzov-servera
+slug: erp-uh/подключаемое-оборудование-offline-вызов-сервера
 ---
 
 

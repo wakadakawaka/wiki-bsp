@@ -1,6 +1,6 @@
 ---
 title: Переводы СБП (c2b)
-slug: erp_uh/perevody-sbp-(c2b)
+slug: erp-uh/переводы-сбп-c2b
 ---
 
 
